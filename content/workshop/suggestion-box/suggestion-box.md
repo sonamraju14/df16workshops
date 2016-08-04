@@ -39,6 +39,7 @@ Note: Instead of creating a Suggestions custom object, you could use Cases, a Sa
         ![alt text](https://github.com/dbhasuru/df16workshops/blob/master/content/workshop/suggestion-box/images/ScreenShot20160727at64217PM.png?raw=true "App Quick Start")
 5. Click Create. Right away you see some of the functionality that’s automatically added.
 <<<<<<< HEAD
+<<<<<<< HEAD
  ![alt text](https://github.com/dbhasuru/df16workshops/blob/master/content/workshop/suggestion-box/images/Suggestion.png?raw=true "Suggestion app")
 6. You’re all set! Close the popup and you can access the App you just created by clicking on the grid icon on the top right
         ![alt text](https://github.com/dbhasuru/df16workshops/blob/master/content/workshop/suggestion-box/images/Step1.1.2.png?raw=true "Suggestion applauncher")
@@ -47,6 +48,12 @@ Note: Instead of creating a Suggestions custom object, you could use Cases, a Sa
 6. You’re all set! Close the popup and you can access the App you just created by clicking on the grid icon on the top right
         
 ![alt text](https://github.com/dbhasuru/df16workshops/blob/master/content/workshop/suggestion-box/images/Step1.1.2.png?raw=true "App Launcher")
+>>>>>>> upstream/master
+=======
+        ![alt text](https://github.com/dbhasuru/df16workshops/blob/master/content/workshop/suggestion-box/images/Suggestion.png?raw=true "Suggestion app")
+6. You’re all set! Close the popup and you can access the App you by clicking on the grid icon on the top right
+        ![alt text](https://github.com/sonamraju14/df16workshops/blob/master/content/workshop/suggestion-box/images/App_launcher.png?raw=true "Suggestion applauncher")
+
 >>>>>>> upstream/master
 
 #### Step 2: Tour the App
@@ -510,7 +517,6 @@ You did it! You built a simple suggestions management app, all without a single 
 (https://developer.salesforce.com/trailhead/reports_dashboards/reports_dashboards_report_types)
 * [Reports & Dashboards > Visualizing Your Data]
 (https://developer.salesforce.com/trailhead/reports_dashboards/reports_dashboards_visualizing_data)
-
 
 
 
