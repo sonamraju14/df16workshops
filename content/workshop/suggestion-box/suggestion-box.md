@@ -11,41 +11,32 @@ title = "Build a Suggestion Box App with Lightning Experience"
 
 1. [Introduction](#introduction)
 2. [Creating a Suggestion Box App](#creating-a-suggestion-box-app)
-  * [What You’ll Do](#what-youll-do)
-     - [Step 1: Create an App and a Custom Object](#step-1-create-an-app-and-a-custom-object)
-     - [Step 2: Tour the App](#step-2-tour-the-app)
-     - [Step 3: Try Out the Mobile App](#step-3-try-out-the-mobile-app)
-  * [Resources](#resources)
+  * [Step 1: Create an App and a Custom Object](#step-1-create-an-app-and-a-custom-object)
+  * [Step 2: Tour the App](#step-2-tour-the-app)
+  * [Step 3: Try Out the Mobile App](#step-3-try-out-the-mobile-app)
 3. [Adding Custom Fields](#adding-custom-fields)
-  * [What You’ll Do](#what-youll-do)
-     - [Step 1: Add a Description field](#step-1-add-a-description-field)
-     - [Step 2: Add a Category Field](#step-2-add-a-category-field)
-     - [Step 3: Try Out the App](#step-3-try-out-the-app)
-     - [Step 4: Viewing Objects in Schema Builder](#step-4-viewing-objects-in-schema-builder)
-     - [Step 5: Add a Status field](#step-5-add-a-status-field)
-     - [Step 6: Add a Date field](#step-6-add-a-date-field)
-     - [Step 7: Try Out the App](#step-7-try-out-the-app)
-  * [Resources](#resources)
+  * [Step 1: Add a Description field](#step-1-add-a-description-field)
+  * [Step 2: Add a Category Field](#step-2-add-a-category-field)
+  * [Step 3: Try Out the App](#step-3-try-out-the-app)
+  * [Step 4: Viewing Objects in Schema Builder](#step-4-viewing-objects-in-schema-builder)
+  * [Step 5: Add a Status field](#step-5-add-a-status-field)
+  * [Step 6: Add a Date field](#step-6-add-a-date-field)
+  * [Step 7: Try Out the App](#step-7-try-out-the-app)
 4. [Modifying the User Experience](#modifying-the-user-experience)
-  * [What You’ll Do](#what-youll-do)
-     - [Step 1: Modify the Page Layout](#step-1-modify-the-page-layout)
-     - [Step 2: Add a Compact Layout](#step-2-add-a-compact-layout)
-     - [Step 3: Add a Global Action](#step-3-add-a-global-action)
-     - [Step 4: Try Out the App](#step-4-try-out-the-app)
-  * [Resources](#resources)
+  * [Step 1: Modify the Page Layout](#step-1-modify-the-page-layout)
+  * [Step 2: Add a Compact Layout](#step-2-add-a-compact-layout)
+  * [Step 3: Add a Global Action](#step-3-add-a-global-action)
+  * [Step 4: Try Out the App](#step-4-try-out-the-app)
 5. [Adding Business Logic](#adding-business-logic)
-  * [What You’ll Do](#what-youll-do)
-     - [Step 1: Add a Formula Field](#step-1-add-a-formula-field)
-     - [Step 2: Add a Validation Rule](#step-2-add-a-validation-rule)
-     - [Step 3: Add a Field Update Using Process Builder](#step-3-add-a-field-update-using-process-builder)
-     - [Step 4: Try Out the App](#step-4-try-out-the-app)
-  * [Resources](#resources)
+  * [Step 1: Add a Formula Field](#step-1-add-a-formula-field)
+  * [Step 2: Add a Validation Rule](#step-2-add-a-validation-rule)
+  * [Step 3: Add a Field Update Using Process Builder](#step-3-add-a-field-update-using-process-builder)
+  * [Step 4: Try Out the App](#step-4-try-out-the-app)
 6. [Creating Reports and Dashboards](#creating-reports-and-dashboards)
-  * [What You’ll Do](#what-youll-do)
-     - [Step 1: Create a Tabular Report](#step-1-create-a-tabular-report)
-     - [Step 2: Create a Summary Report and a Report Chart](#step-2-create-a-summary-report-and-a-report-chart)
-     - [Step 3: Create a Dashboard](#step-3-create-a-dashboard)
-     - [Step 4: Try Out the Mobile App](#step-4-try-out-the-mobile-app)
+  * [Step 1: Create a Tabular Report](#step-1-create-a-tabular-report)
+  * [Step 2: Create a Summary Report and a Report Chart](#step-2-create-a-summary-report-and-a-report-chart)
+  * [Step 3: Create a Dashboard](#step-3-create-a-dashboard)
+  * [Step 4: Try Out the Mobile App](#step-4-try-out-the-mobile-app)
 7. [Summary](#summary)
 
 # Build a Suggestion Box App with Lightning Experience
@@ -64,7 +55,7 @@ Note: Instead of creating a Suggestions custom object, you could use Cases, a Sa
 
 # Creating a Suggestion Box App
 
-### What You’ll Do
+### What You’ll Do <a id="what-youll-do1"></a>
 
 * Create a Force.com app that includes standard collaboration and analytics features.
 * Familiarize yourself with the app’s user interface in the browser and in the Salesforce1 Mobile app.
@@ -129,7 +120,7 @@ With just one button click, you're on your way to building a mobile app!
 
 # Adding Custom Fields
 
-### What You’ll Do
+### What You’ll Do <a id="what-youll-do2"></a>
 * Create custom fields with the Custom Field Wizard and the Schema Builder.
 * Try the app in the browser and in the Salesforce1 Mobile app.
 
